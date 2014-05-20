@@ -39,9 +39,16 @@
             </intent-filter>
         </activity>
 
+		<!-- Clave Flaco -->
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
             android:value="AIzaSyCV_WM6ArvoPtrj_hNlxaMqvO8Dpk89z0Q" />
+            
+        <!-- Clave Pelado --> 
+	    <!--
+	    <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyCV_WM6ArvoPtrj_hNlxaMqvO8Dpk89z0Q" /> -->
       	 <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
