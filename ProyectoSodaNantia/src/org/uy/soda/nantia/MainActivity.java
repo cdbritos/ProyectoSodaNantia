@@ -9,7 +9,7 @@ import android.view.View;
 
 public class MainActivity extends Activity {
 
-	//flaco puto
+	//flaco putoooooooooooooo
 	  @Override
 	  protected void onCreate(Bundle savedInstanceState) {
 	    super.onCreate(savedInstanceState);
